@@ -1,0 +1,8 @@
+{
+    "path" : "./data/cardata_modified.csv",
+    "name" : "Car Tournament 2025",  
+    "nteams" : 16,
+    "default_low" : 10000,
+    "default_high" : 1000000,
+    "default_incr" : 10000
+}

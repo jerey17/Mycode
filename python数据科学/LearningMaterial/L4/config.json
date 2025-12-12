@@ -1,0 +1,8 @@
+{
+  "version": "2.0",
+  "settings": {
+    "theme": "light",
+    "auto_save": true,
+    "max_retries": 3
+  }
+}

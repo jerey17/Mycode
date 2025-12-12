@@ -1,0 +1,14 @@
+                <html>
+                    <head>
+                        <title>Greeter</title>
+                    </head>
+                    <body>
+                        <h1>Welcome</h1>
+                        <p>Please enter your name.</p>
+                        <form action="{{url_for("hello")}}" method="get">
+                            <label for="first_name">Name:</label>
+                            <input name="first_name" id="first_name">
+                            <input type="submit" value="Submit">
+                        </form>
+                    </body>
+                </html>
